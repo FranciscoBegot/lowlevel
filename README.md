@@ -1,4 +1,4 @@
-# 🧠 Low Level Journey — Assembly & Systems Programming
+# Low Level Journey 
 
 Welcome to my personal **low-level programming repository**.  
 Here I document and explain everything I’ve been learning about **Assembly**, **computer architecture**, and **systems programming** — from basic instructions to full program analysis.
