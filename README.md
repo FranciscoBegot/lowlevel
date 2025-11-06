@@ -1,4 +1,3 @@
-# lowlevel
 # 🧠 Low Level Journey — Assembly & Systems Programming
 
 Welcome to my personal **low-level programming repository**.  
