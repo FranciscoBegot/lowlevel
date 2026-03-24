@@ -7,20 +7,20 @@ This repo is both a **study log** and a **reference** for anyone interested in u
 
 ---
 
-## 📚 What You’ll Find Here
+##  What You’ll Find Here
 
-- 🧩 **Assembly programs (x86-64 / NASM)**  
+-  **Assembly programs (x86-64 / NASM)**  
   Each program comes with comments and explanations line by line.
 
-- 🧠 **Learning notes**  
+-  **Learning notes**  
   Short summaries explaining how specific instructions, syscalls, registers, and memory operations work.
 
-- ⚙️ **Experiments**  
+-  **Experiments**  
   Simple reverse engineering snippets, hex manipulation, and other low-level tricks.
 
 ---
 
-## 🧰 Tools & Environment
+## Tools & Environment
 
 - **Assembler:** NASM  
 - **Linker/Loader:** `ld` (GNU)  
