@@ -1,7 +1,7 @@
 # Low Level Journey 
 
 Welcome to my personal **low-level programming repository**.  
-Here I document and explain everything I’ve been learning about **Assembly**, **computer architecture**, and **systems programming** — from basic instructions to full program analysis.
+Here I document and explain everything I’ve been learning about **Assembly**, **computer architecture**, and **systems programming**, from basic instructions to full program analysis.
 
 This repo is both a **study log** and a **reference** for anyone interested in understanding what really happens behind the code.
 
