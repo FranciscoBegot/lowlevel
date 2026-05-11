@@ -29,7 +29,10 @@ print_int:
                             ; quotient  -> RAX
                             ; remainder -> RDX
 
-    add dl,'0'             ; convert remainder to ASCII
+    add dl,'0'             ; '0' = 48 in ASCII
+                            ; if remainder = 5:
+                            ; 48 + 5 = 53
+                            ; ASCII 53 corresponds to character '5'
 
     dec rdi                ; move one byte backwards
     mov [rdi],dl           ; store ASCII character in buffer
